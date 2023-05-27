@@ -2,7 +2,8 @@
 
 <img width="476" alt="image" src="https://github.com/pavans-reddy/Tableau-Dashboard-on-Covid19-Database/assets/110841565/f6d1f463-0d63-4fa7-902a-b440c8fc7caf">
 
-##Final Dashboard
+## Final Dashboard
+
 <img width="497" alt="image" src="https://github.com/pavans-reddy/Tableau-Dashboard-on-Covid19-Database/assets/110841565/383800b0-50dd-4439-bdd3-7d0c42f44e8d">
 
 
